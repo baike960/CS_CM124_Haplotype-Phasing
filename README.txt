@@ -1,0 +1,3 @@
+1. To run the code and generate solution files for test data, put all four files under the same directory as the test data. 
+2. Open chunk_ligation_v2.py, go to the second last line and change the string value inside construct_genotype as the name of the test data. Change the name of the solution file generated on the last line if needed. Save it and exit. 
+2. On Unix terminal, use the command line "python2 chunk_ligation_v2.py" to run the code. 
